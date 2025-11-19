@@ -33,6 +33,6 @@ android {
         disable 'InvalidPackage'
     }
     dependencies {
-        compileOnly 'com.amap.api:location:6.5.0'
+        api 'com.amap.api:3dmap-location-search:10.1.300_loc6.4.9_sea9.7.4'
     }
 }

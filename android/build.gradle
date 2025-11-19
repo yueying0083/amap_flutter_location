@@ -36,6 +36,6 @@ android {
         disable 'InvalidPackage'
     }
     dependencies {
-        compileOnly 'com.amap.api:location:loc6.4.9'
+        compileOnly 'com.amap.api:location:6.5.1'
     }
 }
